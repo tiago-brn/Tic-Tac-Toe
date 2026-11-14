@@ -15,4 +15,6 @@ int end_match(char **grille);
 
 int victory(char **grille);
 
+int equal(char **grille);
+
 #endif
