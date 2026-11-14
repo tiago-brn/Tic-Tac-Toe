@@ -16,7 +16,7 @@ int main() {
             if (ecrire_joueur == 0) {
                 printf("Case invalide ou déjà prise, recommencez.\n");
             }
-}
+        }
         sleep(2);
         interface(grille);
         result = end_match(grille);
