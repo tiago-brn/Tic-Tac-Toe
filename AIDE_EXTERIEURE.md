@@ -1,7 +1,7 @@
- while (i < 3) {
-        int x = 0;
-        while(x < 3) 
-
+while (i < 3) {
+    int x = 0;
+    while (x < 3) {
+    
 Pour cette partie j'ai demandé à claude de m'expliquer à nouveau la navigation à travers les tableaux que l'on avait vu dans le cours mais dont je ne me souvenais plus et que je n'avais pas compris. Cela m'as permis de m'en resservir dans plusieurs autres fonctions (sauf que cette fois ci je savais à quoi sa servait et pourquoi c'était utile).
 
 
