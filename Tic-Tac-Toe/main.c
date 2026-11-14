@@ -36,7 +36,7 @@ int main() {
         }
         sleep(2);
         system("clear");
-        int ecrire_ordi = laptop_case(grille);
+        laptop_case(grille);;
         interface(grille);
         result = end_match(grille);
         if (result == 1) {
